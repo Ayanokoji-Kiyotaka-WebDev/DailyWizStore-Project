@@ -8,7 +8,8 @@ const Navbar = () => {
     <div className='navbar'>
 <img src="./cart.png" className="nav-logo" alt="" style={{ width: '50px', height: '50px' }} />
 
-      <img src="./proflio.jpg"className='nav-profile' alt="" />
+<img src="./profi.jpg" className='nav-profile' alt="" style={{ width: '50px', height: '50px', borderRadius: '50%' }} />
+
     </div>
   )
 }

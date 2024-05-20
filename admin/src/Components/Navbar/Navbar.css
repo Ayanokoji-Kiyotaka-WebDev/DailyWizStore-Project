@@ -5,15 +5,20 @@
     padding: 15px 60px;
     box-shadow: 0 1px 3px -2px black;
     margin-bottom: 1px;
-    background:  #75caff;
-
+    background: linear-gradient(90deg, #75caff, #56adff);
+    border-radius: 0 0 10px 10px; 
 }
+
 .nav-logo{
     width: 200px;
+    transition: width 0.3s ease; 
 }
+
 .nav-profile{
     width: 75px;
+    transition: width 0.3s ease; 
 }
+
 @media(max-width:800px){
     .navbar{
         padding: 15px 30px;
