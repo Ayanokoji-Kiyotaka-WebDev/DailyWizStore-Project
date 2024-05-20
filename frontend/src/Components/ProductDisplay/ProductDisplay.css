@@ -1,4 +1,4 @@
-/* .productdisplay{
+.productdisplay{
     display: flex;
     padding: 0px 10%;
     gap: 40px;
@@ -149,4 +149,4 @@
     .productdisplay-right-size div{
         font-size: 14px;
     }
-} */
+}

@@ -12,7 +12,7 @@ const Hero = () => {
         <h2>NEW ARRIVALS ONLY</h2>
         <div>
           <div className="hero-hand-icon">
-            <p>new😍</p>
+            <p>AWESOME Wizard101😍</p>
         
           </div>
           <p>Special Prepaid Card Bundles</p>

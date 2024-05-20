@@ -54,9 +54,9 @@
     width: 130px;
     height: 45px;
     outline: none;
-    border: 1px solid #7a7a7a;
-    border-radius: 75px;
-    color: #515151;
+    border: 1px solid yellow;
+    border-radius: 5px;
+    color: blue;
     font-size: 20px;
     font-weight: 500;
     background: white;
