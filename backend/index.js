@@ -1,4 +1,4 @@
-const port = 4000;
+const port = 400;
 const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
@@ -13,8 +13,7 @@ app.use(cors());
 // Database Connection With MongoDB
 mongoose.connect("mongodb+srv://kyilanntj:148576@cluster0.23xxxnn.mongodb.net/");
 
-// paste your mongoDB Connection string above with password
-// password should not contain '@' special character
+
 
 //Image Storage Engine 
 const storage = multer.diskStorage({
